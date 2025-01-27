@@ -1,0 +1,14 @@
+day 2:
+1.
+ 'r'=read mode
+ 'w'=write mode(creates a new file or truncates an existing file)
+ 'a'=append mode
+2.
+ writing csv file
+3.
+ writing json file
+
+day 3:
+	OOPS concept
+objects 
+constructors
